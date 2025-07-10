@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
+selenium
+spacy
+rapidfuzz
+# python -m spacy download en_core_web_sm
